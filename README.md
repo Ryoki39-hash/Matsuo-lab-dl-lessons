@@ -1,2 +1,4 @@
-# Matsuo-lab-dl-lessons
-pracices of learnnig coding DL
+# GCI competition2
+
+NFL Draft
+
